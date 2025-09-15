@@ -1,0 +1,26 @@
+{
+  "name": "Thrift2Give - Barang Lama Harapan Baru",
+  "short_name": "Thrift2Give",
+  "description": "Marketplace jual-beli barang bekas berkualitas yang mendukung panti asuhan dan lingkungan",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafbfc",
+  "theme_color": "#10b981",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["shopping", "business", "lifestyle"],
+  "lang": "id",
+  "dir": "ltr"
+}
